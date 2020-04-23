@@ -1,5 +1,5 @@
-# Title
-> summary
+# DogandCatBreed_classifier
+> Differentiate between 37 different catagories
 
 
 In this Notebook I want to document my journey in fast.ai course.
@@ -156,7 +156,7 @@ data.show_batch(rows=3, figsize=(7,6))
 ```
 
 
-![png](/images/Image_Classification_fastai_files/output_22_0.png)
+![png](/DogandCatBreed_classifier/output_22_0.png)
 
 
 We use the **data.classes** to indicate the total number of distinct labels that were found. it indicates the number of distinct labels that were extracted from the regular expression.
